@@ -1,8 +1,10 @@
 #Coffee Shop Sales Analysis
 This project aims to analyze retail sales data from a coffee shop to gain actionable insights that can improve overall performance. By understanding customer behavior and sales trends, we can make data-driven decisions to optimize operations and boost revenue.
 
+
 Recommended Analysis
 This project will explore the following aspects of the coffee shop's sales data:
+
 
 Temporal Trends:
 Daily and Hourly Sales: How do sales vary by day of the week and hour of the day? Are there any specific peak times for sales activity?
