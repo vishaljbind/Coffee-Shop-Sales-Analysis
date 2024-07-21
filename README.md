@@ -31,16 +31,5 @@ Based on the analysis, the following actionable recommendations can be developed
 - **Staff Scheduling**: Optimize staff scheduling to improve customer service during peak hours.
 - **Location-Specific Strategies**: Tailor strategies to customer preferences for each location (if applicable).
 
-## Getting Started
 
-### Prerequisites
-- Python 3.x
-- Jupyter Notebook
-- Libraries: pandas, numpy, matplotlib, seaborn
-
-### Installation
-
-Clone the repository:
-```bash
-git clone https://github.com/yourusername/coffeeshop-sales-analysis.git
 cd coffeeshop-sales-analysis
